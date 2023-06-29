@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BinPacking_NextFit/1.0.0": {
+        "runtime": {
+          "BinPacking_NextFit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinPacking_NextFit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
